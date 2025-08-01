@@ -37,7 +37,7 @@ export default function About() {
                 Privacy First
               </h3>
               <p className="text-gray-700">
-                We don't track your clicks or require personal information. Your
+                We do not track your clicks or require personal information. Your
                 links are yours alone.
               </p>
             </div>
@@ -72,8 +72,8 @@ export default function About() {
               more private.
             </p>
             <p className="text-gray-700 text-center">
-              We're fully independent and self-funded, which means we answer to
-              our users - not investors or advertisers.
+              We are fully independent and self-funded, which means we answer to
+              our users — not investors or advertisers.
             </p>
           </div>
         </section>

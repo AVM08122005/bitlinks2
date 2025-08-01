@@ -25,7 +25,7 @@ export default function Contact() {
           >
             <span className="text-purple-600 font-medium">{email}</span>
             <button className="text-sm bg-purple-100 text-purple-700 px-2 py-1 rounded">
-              {copied ? 'Copied!' : 'Copy'}
+              {copied ? "Copied!" : "Copy"}
             </button>
           </div>
 
@@ -35,7 +35,7 @@ export default function Contact() {
         </div>
 
         <div className="mt-8 pt-6 border-t border-gray-200">
-          <p className="text-gray-500">I'll try to respond within 24 hours</p>
+          <p className="text-gray-500">I will try to respond within 24 hours</p>
         </div>
       </main>
     </div>
